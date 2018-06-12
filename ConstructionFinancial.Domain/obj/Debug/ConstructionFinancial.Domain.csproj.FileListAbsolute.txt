@@ -1,0 +1,5 @@
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Domain\bin\Debug\ConstructionFinancial.Domain.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Domain\bin\Debug\ConstructionFinancial.Domain.pdb
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Domain\obj\Debug\ConstructionFinancial.Domain.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Domain\obj\Debug\ConstructionFinancial.Domain.pdb
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Domain\obj\Debug\ConstructionFinancial.Domain.csprojResolveAssemblyReference.cache

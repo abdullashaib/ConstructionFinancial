@@ -1,0 +1,11 @@
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\ConstructionFinancial.Service.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\ConstructionFinancial.Service.pdb
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\ConstructionFinancial.DataEntity.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\ConstructionFinancial.Domain.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\EntityFramework.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\ConstructionFinancial.DataEntity.pdb
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\ConstructionFinancial.Domain.pdb
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\bin\Debug\EntityFramework.xml
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\obj\Debug\ConstructionFinancial.Service.csprojResolveAssemblyReference.cache
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\obj\Debug\ConstructionFinancial.Service.dll
+C:\Projects\CSharpProjects\ConstructionFinancial\ConstructionFinancial.Service\obj\Debug\ConstructionFinancial.Service.pdb
